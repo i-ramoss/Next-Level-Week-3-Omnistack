@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src=".github/happy-day1.gif" alt="Happy" height="400px" width="100%>
+  <img src=".github/happy-day1.gif" alt="Happy" height="400px" width="100%">
 </div>
 
 
